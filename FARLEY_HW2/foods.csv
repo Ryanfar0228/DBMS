@@ -1,0 +1,13 @@
+﻿foodID,name,type,price
+1,pasta,italian,12
+2,lasagna,italian,15
+3,sushi,rice,10
+4,tempura,seafood,14
+5,tacos,mexican,8
+6,burrito,mexican,11
+7,coq au vin,french,18
+8,crepes,french,9
+9,pad thai,thai,13
+10,green curry,thai,11
+11,butter chicken,indian,12
+12,paneer tikka,indian,15
